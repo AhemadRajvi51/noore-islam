@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "664661929031",
+    "firebase_url": "https://noore-islam-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "noore-islam",
+    "storage_bucket": "noore-islam.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664661929031:android:305b853b70521c2ede5562",
+        "android_client_info": {
+          "package_name": "com.ahemadifrm.nooreislam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664661929031-ac6911i4q6jsdpscjd5rb7psfidtq638.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNxH-sOdG0u-NSp2tD_1Y0skO_cjSyXKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664661929031-ac6911i4q6jsdpscjd5rb7psfidtq638.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

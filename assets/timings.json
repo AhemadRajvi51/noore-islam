@@ -1,0 +1,213 @@
+{
+  "ramadan_2025": {
+    "start_date": "2025-03-02",
+    "end_date": "2025-03-31",
+    "schedule": [
+      {
+        "day": 1,
+        "date": "2025-03-02",
+        "sehri": "05:30 AM",
+        "iftar": "06:45 PM"
+      },
+      {
+        "day": 2,
+        "date": "2025-03-03",
+        "sehri": "05:29 AM",
+        "iftar": "06:46 PM"
+      },
+      {
+        "day": 3,
+        "date": "2025-03-04",
+        "sehri": "05:28 AM",
+        "iftar": "06:47 PM"
+      },
+      {
+        "day": 4,
+        "date": "2025-03-05",
+        "sehri": "05:27 AM",
+        "iftar": "06:48 PM"
+      },
+      {
+        "day": 5,
+        "date": "2025-03-06",
+        "sehri": "05:26 AM",
+        "iftar": "06:49 PM"
+      },
+      {
+        "day": 6,
+        "date": "2025-03-07",
+        "sehri": "05:25 AM",
+        "iftar": "06:50 PM"
+      },
+      {
+        "day": 7,
+        "date": "2025-03-08",
+        "sehri": "05:24 AM",
+        "iftar": "06:51 PM"
+      },
+      {
+        "day": 8,
+        "date": "2025-03-09",
+        "sehri": "05:23 AM",
+        "iftar": "06:52 PM"
+      },
+      {
+        "day": 9,
+        "date": "2025-03-10",
+        "sehri": "05:22 AM",
+        "iftar": "06:53 PM"
+      },
+      {
+        "day": 10,
+        "date": "2025-03-11",
+        "sehri": "05:21 AM",
+        "iftar": "06:54 PM"
+      },
+      {
+        "day": 11,
+        "date": "2025-03-12",
+        "sehri": "05:20 AM",
+        "iftar": "06:55 PM"
+      },
+      {
+        "day": 12,
+        "date": "2025-03-13",
+        "sehri": "05:19 AM",
+        "iftar": "06:56 PM"
+      },
+      {
+        "day": 13,
+        "date": "2025-03-14",
+        "sehri": "05:18 AM",
+        "iftar": "06:57 PM"
+      },
+      {
+        "day": 14,
+        "date": "2025-03-15",
+        "sehri": "05:17 AM",
+        "iftar": "06:58 PM"
+      },
+      {
+        "day": 15,
+        "date": "2025-03-16",
+        "sehri": "05:16 AM",
+        "iftar": "06:59 PM"
+      },
+      {
+        "day": 16,
+        "date": "2025-03-17",
+        "sehri": "05:15 AM",
+        "iftar": "07:00 PM"
+      },
+      {
+        "day": 17,
+        "date": "2025-03-18",
+        "sehri": "05:14 AM",
+        "iftar": "07:01 PM"
+      },
+      {
+        "day": 18,
+        "date": "2025-03-19",
+        "sehri": "05:13 AM",
+        "iftar": "07:02 PM"
+      },
+      {
+        "day": 19,
+        "date": "2025-03-20",
+        "sehri": "05:12 AM",
+        "iftar": "07:03 PM"
+      },
+      {
+        "day": 20,
+        "date": "2025-03-21",
+        "sehri": "05:11 AM",
+        "iftar": "07:04 PM"
+      },
+      {
+        "day": 21,
+        "date": "2025-03-22",
+        "sehri": "05:10 AM",
+        "iftar": "07:05 PM"
+      },
+      {
+        "day": 22,
+        "date": "2025-03-23",
+        "sehri": "05:09 AM",
+        "iftar": "07:06 PM"
+      },
+      {
+        "day": 23,
+        "date": "2025-03-24",
+        "sehri": "05:08 AM",
+        "iftar": "07:07 PM"
+      },
+      {
+        "day": 24,
+        "date": "2025-03-25",
+        "sehri": "05:07 AM",
+        "iftar": "07:08 PM"
+      },
+      {
+        "day": 25,
+        "date": "2025-03-26",
+        "sehri": "05:06 AM",
+        "iftar": "07:09 PM"
+      },
+      {
+        "day": 26,
+        "date": "2025-03-27",
+        "sehri": "05:05 AM",
+        "iftar": "07:10 PM"
+      },
+      {
+        "day": 27,
+        "date": "2025-03-28",
+        "sehri": "05:04 AM",
+        "iftar": "07:11 PM"
+      },
+      {
+        "day": 28,
+        "date": "2025-03-29",
+        "sehri": "05:03 AM",
+        "iftar": "07:12 PM"
+      },
+      {
+        "day": 29,
+        "date": "2025-03-30",
+        "sehri": "05:02 AM",
+        "iftar": "07:13 PM"
+      },
+      {
+        "day": 30,
+        "date": "2025-03-31",
+        "sehri": "05:01 AM",
+        "iftar": "07:14 PM"
+      }
+    ],
+    "duas": {
+      "sehri": {
+        "arabic": "وَبِصَوْمِ غَدٍ نَّوَيْتُ مِنْ شَهْرِ رَمَضَانَ",
+        "transliteration": "Wa bisawmi ghadinn nawaiytu min shahri Ramadan",
+        "translation": "I intend to keep the fast tomorrow in the month of Ramadan"
+      },
+      "iftar": {
+        "arabic": "اللَّهُمَّ لَكَ صُمْتُ وَعَلَى رِزْقِكَ أَفْطَرْتُ",
+        "transliteration": "Allahumma laka sumtu wa ala rizqika aftartu",
+        "translation": "O Allah! For You I have fasted and with Your provision I break my fast"
+      }
+    },
+    "current_day": {
+      "day": 1,
+      "date": "2025-03-02",
+      "sehri": "05:30 AM",
+      "iftar": "06:45 PM",
+      "current_time": "2025-03-02T12:00:00Z",
+      "current_dua": "sehri",
+      "iftar_countdown": {
+        "hours": 6,
+        "minutes": 45,
+        "seconds": 0
+      }
+    }
+  }
+}

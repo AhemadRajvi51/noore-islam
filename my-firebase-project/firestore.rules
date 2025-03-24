@@ -1,0 +1,27 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    
+    // Default Rule: sabhi data secure kare
+    match /{document=**} {
+      allow read, write: if false;
+    }
+
+    // 🔹 Admin Settings sirf Admin read aur write kar sakta hain
+    match /admin_settings/{doc} {
+      allow read, write: if request.auth.token.admin == true;
+    }
+
+    // 🔹 Content Filters sirf read kiye ja sakte hain lekin change nahi kiye ja sakte hain
+    match /content_filters/{doc} {
+      allow read: if true;
+      allow write: if false;
+    }
+
+    // 🔹 Users sirf apna data read aur update kar sakte hain
+    match /users/{userId} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+    }
+  }
+}
